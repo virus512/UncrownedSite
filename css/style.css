@@ -40,3 +40,29 @@ h2
     text-align: center;
 }
 
+nav
+{
+background-color: burlywood;
+height: 240px;
+}
+.nav
+{
+
+    border: 5px solid black;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+    margin: auto;
+    float: left;
+   
+}
+
+ol
+{
+    margin: auto;
+}
+
+img
+{
+    max-width: 100%;
+}
